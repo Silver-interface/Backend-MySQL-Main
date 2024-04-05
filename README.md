@@ -1,2 +1,2 @@
-# Backend--Node-express-mysql
-# Este repositorio es una copia actualizada del otro repositorio del backend
+# Backend-MySQL-Main
+Repositorio destinado para almacenar el backend actualizado
